@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "Product_Name": "Oneplus Bluetooth",
+            "Quantity": 5,
+            "Price": 1800
+        },
+        {
+            "Product_Name": "adaptor 120W",
+            "Quantity": 2,
+            "Price": 1200
+        }
+    ],
+    "customers": [],
+    "orders": []
+}
