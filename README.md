@@ -28,6 +28,7 @@ This project is useful for beginners who are learning **Python classes, file han
 ## ✨ Features
 
 ### 📦 1. Add Products
+<img width="1505" height="588" alt="Screenshot_24-9-2026_31043_localhost" src="https://github.com/user-attachments/assets/b405c3d1-1799-4b72-b0de-3cb2b3622bbb" />
 
 Add new products to the shop by entering:
 
@@ -38,6 +39,7 @@ Add new products to the shop by entering:
 Product information is automatically saved to `data.json`.
 
 ### 👀 2. View Products
+<img width="1558" height="324" alt="Screenshot_24-9-2026_31154_localhost" src="https://github.com/user-attachments/assets/ab45230a-c7fe-4d3c-a729-79dbc11c7b8c" />
 
 Display all products currently available in the shop, including:
 
@@ -46,6 +48,7 @@ Display all products currently available in the shop, including:
 * Product Price
 
 ### 🛍️ 3. Place an Order
+<img width="1593" height="632" alt="Screenshot_24-9-2026_31418_localhost" src="https://github.com/user-attachments/assets/4f1e3bbb-ab7b-49c3-a13c-d7c310f159ec" />
 
 Customers can select a product and specify the quantity they want.
 
@@ -58,6 +61,7 @@ The program:
 * 💾 Saves the updated stock
 
 ### ❌ 4. Cancel an Order
+<img width="1530" height="638" alt="Screenshot_24-9-2026_31436_localhost" src="https://github.com/user-attachments/assets/0fe83653-fd1e-4e4e-b654-627f5a6a2a3c" />
 
 The program is designed to allow previous orders to be cancelled.
 
