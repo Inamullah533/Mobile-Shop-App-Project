@@ -212,7 +212,7 @@ It demonstrates how Python can be used to create a simple application that store
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Inam ullah**
 
 ⭐ If you find this project useful, consider giving the repository a star!
 
